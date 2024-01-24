@@ -1,0 +1,39 @@
+
+
+
+.stopWatchContainer {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  font-size: 2em;
+  margin-bottom: 10px;
+  background-color: #f0f0f0;
+  padding: 10px;
+  border-radius: 8px;
+  display: inline-block;
+  border: 2px solid #ddd;
+  border-radius: 8px;
+  margin: auto; 
+  margin-top: 20vh; 
+}
+
+.watchHeading{
+  text-align: center;
+  margin: 10px;
+}
+
+.watchPara{
+   margin: 10px;
+}
+
+.watchButton{
+  font-size: 1em;
+  margin: 5px;
+  padding: 10px;
+  cursor: pointer;
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+}
+
